@@ -19,7 +19,7 @@ Hi, I'm Plaban. I am learning full stack web development using MERN Stack. I'm c
 
 <br>
 
-### My Social Media handelers:
+### Join me on this Social Media platforms:purple_heart::
 
 [<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
