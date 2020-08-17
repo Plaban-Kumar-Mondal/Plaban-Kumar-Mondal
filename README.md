@@ -1,6 +1,6 @@
 ## I'm Plaban Kumar Mondal - _@PlabanKrMondal_ :wave:
 
-Hi, I'm Plaban. I am learning full stack web development using MERN Stack. I'm currently trying to become a freelancer at [Fiverr](https://www.fiverr.com/share/3AD48k "Fiverr") :sparkles:
+Hi, I'm Plaban. I am learning full stack web development using MERN Stack. :muscle: I'm currently trying to become a freelancer at [Fiverr](https://www.fiverr.com/share/3AD48k "Fiverr") :sparkles:
 
 ---
 
@@ -19,7 +19,7 @@ Hi, I'm Plaban. I am learning full stack web development using MERN Stack. I'm c
 
 <br>
 
-### Join me on this Social Media platforms:purple_heart::
+### Join me on this Social Media platforms:star2:
 
 [<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
