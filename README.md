@@ -21,7 +21,7 @@ Hi, I'm Plaban. I am learning full stack web development using MERN Stack. I'm c
 
 ### My Social Media handelers:
 
-[<img height="32" width="32" styel="margin-right: 1000px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img height="32" width="32" style="margin-right: 100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
