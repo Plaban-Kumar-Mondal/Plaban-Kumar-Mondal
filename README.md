@@ -1,10 +1,10 @@
 ## I'm Plaban Kumar Mondal - _@PlabanKrMondal_ :wave:
 
-Hi, I'm Plaban. I am learning web development using MERN Stack :muscle: :sparkles:
+Hi, I'm Plaban. I am Computer Science and Engineering student :muscle: :sparkles:
 
 ---
 
-### Languages and Tools I use:
+### Languages and Tools I know:
 
 <img align="left" alt="Html" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="Css" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
