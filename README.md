@@ -1,6 +1,6 @@
 ## I'm Plaban Kumar Mondal - _@PlabanKrMondal_ :wave:
 
-Hi, I'm Plaban. I am Computer Science and Engineering student :muscle: :sparkles:
+Hi, I'm Plaban. I am Computer Science and Engineering student at VIT Bhopal :muscle: :sparkles:
 
 ---
 
