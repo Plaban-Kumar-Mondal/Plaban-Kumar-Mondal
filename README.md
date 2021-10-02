@@ -21,10 +21,9 @@ Hi, I'm Plaban. I am Computer Science and Engineering student at VIT Bhopal :mus
 
 ### Join me on this Social Media platforms:star2:
 
-[<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img height="32" width="32" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img height="32" width="32" align="left" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />][twitter]
 
 
 
 [twitter]: https://twitter.com/PlabanKrMondal
-[facebook]: https://www.facebook.com/plaban.kumar.mondal/
+
