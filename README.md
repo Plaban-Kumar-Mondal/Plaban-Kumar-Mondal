@@ -19,7 +19,7 @@ Hi, I'm Plaban. I am Computer Science and Engineering student at VIT Bhopal :mus
 
 <br>
 
-### Join me on this Social Media platforms:star2:
+### Follow me on:star2:
 
 [<img height="32" width="32" align="left" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />][twitter]
 
